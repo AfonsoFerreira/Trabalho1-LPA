@@ -1,7 +1,7 @@
 Informações:
-Alunos: 1-) Afonso Sorci Ferreira  nº9312561
-        2-) France Sutil de Aguiar nº9312814
-        3-) Matheus Campanini Mughrabi nº9312835
+Alunos: 1-) Afonso Sorci Ferreira  nº 9312561
+        2-) France Sutil de Aguiar nº 9312814
+        3-) Matheus Campanini Mughrabi nº 9312835
 
   Todos os programas desse repositório foram desenvolvidos no Windows 8 ,64 bits, utilizando o compilador DevC++.Foram utilizadas as bibliotecas padrão "stdio.h" e "stdlib.h"
   O repositório possui três arquivos que podem ser executados através de seus arquivos do tipo .exe.
